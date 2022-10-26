@@ -4,12 +4,18 @@ public class Cat {
 
     //State
 
-    //name
-    //color
-    //age
-    //weight
-    //length
-    //breed
+    //name (String)
+    //color (String)
+    //age (int)
+    //weight (float)
+    //length (float)
+    //breed (String)
 
     //Behaviour
+
+    // walk
+    // run
+    // eat
+    // sleep
+    // meow
 }
